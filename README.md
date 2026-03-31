@@ -1,9 +1,7 @@
 # 💫 About Me:
-Aspiring AI/ML Engineer with hands-on experience in building real-world ML and GenAI applications, including RAG <br>systems, and LLM-powered assistants. Strong foundation in Python, machine learning, and <br>deep learning, with a passion for building deployable AI applications.<br><br>fun fact: Im quick learner
+Aspiring AI/ML Engineer with hands-on experience in building real-world ML and GenAI applications, including RAG <br>systems, and LLM-powered assistants. Strong foundation in Python, machine learning, and <br>deep learning, with a passion for building deployable AI applications.<br><br>fun fact: I'm quick learner
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Astha brahmbhatt](https://www.linkedin.com/in/astha-brahmbhatt-4a1441271?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:astha.brahmbhatt005@gmail.com) 
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astha-brahmbhatt-4a1441271?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:astha.brahmbhatt005@gmail.com)
